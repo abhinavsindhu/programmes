@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507443913 source:c:\users\kiit\desktop\revision of prog\armstrongno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

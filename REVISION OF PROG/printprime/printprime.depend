@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507439217 source:c:\users\kiit\desktop\revision of prog\printprime\main.c
+	<stdio.h>
+	<stdlib.h>
+

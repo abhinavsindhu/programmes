@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505916078 source:c:\users\kiit\desktop\programmes\angstrom\main.c
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505924537 source:c:\users\kiit\desktop\programmes\ang\main.c
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506275893 source:c:\users\kiit\desktop\programmes\soundesxp\main.c
+	<windows.h>
+	<MMsystem.h>
+

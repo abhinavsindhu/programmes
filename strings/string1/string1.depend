@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509724866 source:c:\users\kiit\desktop\strings\string1\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507464701 source:c:\users\kiit\desktop\programmes\countnodigit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507464701 source:d:\desktop backup\programmes\countnodigit\main.c
+	<stdio.h>
+	<stdlib.h>
+

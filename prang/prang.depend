@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506076094 source:c:\users\kiit\desktop\programmes\prang\main.c
+	<stdio.h>
+	<math.h>
+
